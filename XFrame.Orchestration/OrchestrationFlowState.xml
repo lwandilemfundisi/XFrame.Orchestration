@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ValueObjects>
+  <ValueObject>
+    <Code>Abort</Code>
+    <Text>Flow aborted</Text>
+  </ValueObject>
+  <ValueObject>
+    <Code>Continue</Code>
+    <Text>Flow continued</Text>
+  </ValueObject>
+  <ValueObject>
+    <Code>Defer</Code>
+    <Text>Defer Flow</Text>
+  </ValueObject>
+  <ValueObject>
+    <Code>Deferred</Code>
+    <Text>Flow deferred</Text>
+  </ValueObject>
+  <ValueObject>
+    <Code>Done</Code>
+    <Text>Flow executed completely</Text>
+  </ValueObject>
+  <ValueObject>
+    <Code>Error</Code>
+    <Text>Flow encountered an error</Text>
+  </ValueObject>
+  <ValueObject>
+    <Code>UnAuthenticated</Code>
+    <Text>Flow requires authenticated personel</Text>
+  </ValueObject>
+  <ValueObject>
+    <Code>UnAuthorized</Code>
+    <Text>Flow unauthorized</Text>
+  </ValueObject>
+</ValueObjects>
